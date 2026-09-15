@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rohan71719/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Rohan71719/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Rohan71719/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rohan71719/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -13,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rohan71719/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Rohan71719/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/Rohan71719/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Rohan71719/LeetCode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
@@ -29,4 +31,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/Rohan71719/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Rohan71719/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->

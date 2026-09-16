@@ -1,36 +1,40 @@
 class Solution {
 public:
-    int shipWithinDays(vector<int>& weight, int days) 
+    int shipWithinDays(vector<int>& arr, int days) 
     {
-        int maxweight=-1, totalweight=0;
-        for(int i=0;i<weight.size();i++)
+       int n=arr.size();
+        
+        
+        int start=0,end=0,mid,ans;
+        
+        for(int i=0;i<n;i++)
         {
-            maxweight=max(weight[i],maxweight);
-            totalweight+=weight[i];
-        }    
-        int left=maxweight;
-        int right=totalweight;
-        while(maxweight<totalweight)
-        {
-           int midweight= maxweight+(totalweight-maxweight)/2;
-            int currweight=0,daysneeded=1;
-            for(int i=0;i<weight.size();i++)
-            {
-            if(currweight+weight[i]>midweight)
-            {
-                daysneeded++;
-                currweight=0;
-            }
-                currweight+=weight[i];
-            }    
-            if(daysneeded>days)
-            {
-                maxweight=midweight+1;
-            }
-            else
-                totalweight=midweight;
-            
+            if(arr[i]>start)
+            start=arr[i];
+            end+=arr[i];
         }
-            return maxweight;
+        
+        while(start<=end)
+        {
+            mid=end-(end-start)/2;
+            int pages=0,count=1;
+            for(int i=0;i<n;i++)
+            {
+                pages+=arr[i];
+                if(pages>mid)
+                {
+                    count++;
+                    pages=arr[i];
+                }
+            }
+            if(count<=days)
+            {
+                ans=mid;
+                end=mid-1;
+            }
+            else 
+             start=mid+1;
+        }
+        return ans;
     }
 };

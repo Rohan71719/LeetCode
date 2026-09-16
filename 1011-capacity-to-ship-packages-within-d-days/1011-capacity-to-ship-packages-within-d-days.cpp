@@ -2,39 +2,38 @@ class Solution {
 public:
     int shipWithinDays(vector<int>& arr, int days) 
     {
-       int n=arr.size();
-        
-        
-        int start=0,end=0,mid,ans;
+          int n=arr.size();
+        int start=0, end,mid,ans=0;
         
         for(int i=0;i<n;i++)
         {
-            if(arr[i]>start)
-            start=arr[i];
+            start=max(start,arr[i]);
             end+=arr[i];
         }
         
         while(start<=end)
         {
+           
             mid=end-(end-start)/2;
-            int pages=0,count=1;
+            int currweight=0, daysneeded=1;
             for(int i=0;i<n;i++)
             {
-                pages+=arr[i];
-                if(pages>mid)
+                currweight+=arr[i];
+                if(currweight>mid)
                 {
-                    count++;
-                    pages=arr[i];
+                    daysneeded++;
+                    currweight=arr[i];
                 }
+                    
             }
-            if(count<=days)
-            {
-                ans=mid;
-                end=mid-1;
-            }
-            else 
-             start=mid+1;
+            
+            if(daysneeded>days)
+                start=mid+1;
+            else{
+                    ans=mid;
+                    end=mid-1;
+                }    
         }
-        return ans;
+            return ans;
     }
 };

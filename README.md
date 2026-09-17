@@ -51,4 +51,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2951-find-the-peaks](https://github.com/Rohan71719/LeetCode/tree/main/2951-find-the-peaks/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Rohan71719/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Rohan71719/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 <!---LeetCode Topics End-->

@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohan71719/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/Rohan71719/LeetCode/tree/main/0410-split-array-largest-sum/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
@@ -56,11 +57,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohan71719/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0125-valid-palindrome](https://github.com/Rohan71719/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Rohan71719/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohan71719/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Rohan71719/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rohan71719/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Rohan71719/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
@@ -93,4 +96,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Rohan71719/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Rohan71719/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->

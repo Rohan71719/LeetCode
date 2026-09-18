@@ -64,11 +64,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0014-longest-common-prefix](https://github.com/Rohan71719/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0125-valid-palindrome](https://github.com/Rohan71719/LeetCode/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/Rohan71719/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0205-isomorphic-strings](https://github.com/Rohan71719/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Rohan71719/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Rohan71719/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0205-isomorphic-strings](https://github.com/Rohan71719/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Rohan71719/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |

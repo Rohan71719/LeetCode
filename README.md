@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/Rohan71719/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/Rohan71719/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Rohan71719/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Rohan71719/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Rohan71719/LeetCode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Rohan71719/LeetCode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Hash Table
@@ -76,10 +77,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/Rohan71719/LeetCode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Rohan71719/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Rohan71719/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Rohan71719/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/Rohan71719/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -100,4 +103,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Rohan71719/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rohan71719/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rohan71719/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Rohan71719/LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 <!---LeetCode Topics End-->

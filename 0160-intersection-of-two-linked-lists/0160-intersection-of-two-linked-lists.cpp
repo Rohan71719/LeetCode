@@ -43,7 +43,7 @@ public:
             curr1=curr1->next;
             curr2=curr2->next;
         }
-            if(curr1==NULL) return NULL;
+           
             return curr1;
     }
 };

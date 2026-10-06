@@ -13,9 +13,6 @@ public:
      temp.pop_back();
     }
     
-    
-    
-    
     vector<vector<int>> subsets(vector<int>& nums) 
     {
         vector<vector<int>> ans;
